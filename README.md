@@ -22,19 +22,6 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 📁 Project Structure
-
-Calculator/
-├── calculator.png # Favicon/logo image
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-├── script.js # JavaScript logic
-├── LICENSE # Project MIT license
-└── README.md # Project documentation
-
-
----
-
 ## 🚀 How to Use
 
 1. Clone the repository:
